@@ -1,5 +1,5 @@
 Hello, I'm Daywid!
-I'm a beginner in programming and currently learning about web development. My favorite programming languages are Java and Python.
+I'm a novice software developer from Brazil. My favorite programming languages are Java and Python.
 
 About me 
 
