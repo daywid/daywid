@@ -1,7 +1,7 @@
 Hello, I'm Daywid!
 I'm a beginner in programming and currently learning about web development. My favorite programming languages are Java and Python.
 
-About me
+About me /n
 🎓 I'm currently studying programming and web development.
 💻 I like to work with Java and Python, but I'm always open to learning new languages.
 📚 I'm always looking to learn new things and stay up to date with new technologies.
