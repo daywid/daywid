@@ -3,6 +3,7 @@ I'm a novice software developer from Brazil. My favorite programming languages a
 
 About me 
 
+
 🎓 I'm currently studying programming and web development.
 
 💻  My favorite programming languages are Java and Python, but I'm always seeking to learn new languages.
@@ -12,6 +13,7 @@ About me
 ✨Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything related to it!✨
 
 Contact
+
 
 You can contact me through my email (mdaywid@gmail.com).
 
