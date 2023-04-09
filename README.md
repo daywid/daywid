@@ -21,4 +21,3 @@ You can contact me through my email (mdaywid@gmail.com).
 
 
 Thank you for visiting my profile!
-
