@@ -22,6 +22,9 @@ You can contact me through my email (mdaywid@gmail.com).
 
 Thank you for visiting my profile!
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaywid@gmail.com)
+
+
 
 ![daywid's GitHub stats](https://github-readme-stats.vercel.app/api?username=daywid&show_icons=true&theme=radical&hide=prs,issues,contribs&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daywid&theme=radical&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5)
