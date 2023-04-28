@@ -14,11 +14,6 @@ About me
 ✨Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything related to it!✨
 
 
-Contact
-
-
-You can contact me through my email (mdaywid@gmail.com).
-
 
 Thank you for visiting my profile!
 
