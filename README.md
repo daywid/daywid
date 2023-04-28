@@ -24,9 +24,6 @@ Thank you for visiting my profile!
 
 
 
-![daywid's GitHub stats](https://github-readme-stats.vercel.app/api?username=daywid&show_icons=true&theme=radical&hide=prs,issues,contribs&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daywid&theme=radical&langs_count=8&layout=compact)
 
 <a href="https://github.com/daywid/github-readme-stats">
   <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=daywid&show_icons=true&theme=radical&hide=prs,issues,contribs&count_private=true)" />
