@@ -26,4 +26,4 @@ Thank you for visiting my profile!
 
 ![daywid's GitHub stats](https://github-readme-stats.vercel.app/api?username=daywid&show_icons=true&theme=radical&hide=prs,issues,contribs&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daywid)](https://github.com/daywid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daywid)](https://github.com/daywid/github-readme-stats&theme=radical)
