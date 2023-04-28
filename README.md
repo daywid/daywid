@@ -24,4 +24,4 @@ Thank you for visiting my profile!
 
 
 
-![daywid's GitHub stats](https://github-readme-stats.vercel.app/api?username=daywid&show_icons=true&theme=radical&hide=prs,issues,contribs)
+![daywid's GitHub stats](https://github-readme-stats.vercel.app/api?username=daywid&show_icons=true&theme=radical&hide=prs,issues,contribs&count_private=true)
