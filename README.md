@@ -21,4 +21,7 @@ You can contact me through my email (mdaywid@gmail.com).
 
 
 Thank you for visiting my profile!
+
+
+
 ![daywid's GitHub stats](https://github-readme-stats.vercel.app/api?username=daywid&show_icons=true&theme=radical&hide=prs,issues,contribs)
