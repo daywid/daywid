@@ -14,12 +14,6 @@ I'm a novice software developer from Brazil. My favorite programming languages a
 ✨Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything related to it!✨
 
 
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=daywid&show_icons=true&theme=tokyonight&hide=stars,contribs,prs,issues)](https://github.com/daywid)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daywid&layout=compact&theme=tokyonight)](https://github.com/daywid/github-readme-stats)
-
-
 <a href="https://github.com/daywid/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daywid&layout=compact&theme=tokyonight" />
 </a>
