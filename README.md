@@ -15,4 +15,5 @@ About me
 
 
 
-Thank you for visiting my profile!
+[![Stats](https://github-readme-stats.vercel.app/api?username=daywid&show_icons=true&theme=radical)](https://github.com/daywid)
+
