@@ -15,5 +15,7 @@ About me
 
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=daywid&show_icons=true&theme=radical)](https://github.com/daywid)
+[![Stats](https://github-readme-stats.vercel.app/api?username=daywid&show_icons=true&theme=tokyonight)](https://github.com/daywid)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daywid&layout=compact)](https://github.com/daywid/github-readme-stats)
 
