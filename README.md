@@ -1,5 +1,5 @@
 ## Hello, I'm Daywid!
-I'm a novice software developer from Brazil. My favorite programming languages are Java and Python!
+I'm a software developer from Brazil. My favorite programming languages are Java and Python!
 
 
 ## About me 
