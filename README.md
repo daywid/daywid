@@ -5,7 +5,7 @@ I'm a software developer from Brazil. My favorite programming languages are Java
 ## About me 
 
 
-🎓 I'm currently studying java and web development.
+🎓 I'm currently studying Javascript and web development.
 
 💻  My favorite programming languages are Java and Python, but I'm always seeking to learn new languages.
 
