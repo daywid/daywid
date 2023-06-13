@@ -46,7 +46,7 @@
 
  <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
 <!-- <img src="https://github.com/daywid/daywid/blob/main/Fire-Pixel.gif" width="440"> -->
- <img src="https://github.com/daywid/daywid/blob/main/Knight-Game.gif" align="center" width="810">
+ <img src="https://github.com/daywid/daywid/blob/main/Knight-Game.gif" align="center" width="720">
 
 ##
   
