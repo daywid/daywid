@@ -1,4 +1,4 @@
-<h3> Hello, I'm Daywid! 🐱‍👤 Welcome to my GitHub profile! 👋🏻 <br> <br> <br> </h3>  
+<h3> Hello, I'm Daywid! 🐱‍👤 Welcome to my GitHub profile! 👋🏻 <br> <br> </h3>  
 <h4></h4>   
 
 
