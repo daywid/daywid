@@ -5,11 +5,11 @@
 ## About me 
 
 
-🎓 I'm currently studying Javascript and web development.
+<i> 🎓 I'm currently studying Javascript and web development. <br> </i>
 
-💻  My favorite programming languages are Java and Python, but I'm always seeking to learn new languages.
+<i> 💻  My favorite programming languages are Java and Python, but I'm always seeking to learn new languages. <br>  </i>
 
-📚 I'm always looking to learn new things and stay up to date with new technologies.
+<i> 📚 I'm always looking to learn new things and stay up to date with new technologies. <br>  </i>
 
    
 ## 
