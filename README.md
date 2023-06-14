@@ -1,6 +1,7 @@
 <h3> Hello, I'm Daywid! 🐱‍👤 Welcome to my GitHub profile! 👋🏽 </h3>  
 <h4></h4>   
 
+<i> 🎓  Software Development Apprentice - Java | Python | HTML | CSS | Javascript <br> <br> </i>
 
 ## About me 
 
