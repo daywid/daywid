@@ -48,14 +48,8 @@
  <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
 <!-- <img src="https://github.com/daywid/daywid/blob/main/Fire-Pixel.gif" width="440"> -->
 
-<style>
-  .center-div {
-    display: flex;
-    justify-content: center;
-  }
-</style>
 
-<div class="center-div">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/daywid/daywid/blob/main/zelda and link📚.gif" width="720">
 </div>
 
