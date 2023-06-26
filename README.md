@@ -33,6 +33,7 @@
 </a>
 </div>
 
+
 <br>
   
 <div align="center" style="display: inline_block">
@@ -46,6 +47,7 @@
    <img align="center" alt="Renato-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
    
 </div>
+
     
 ## 
 
