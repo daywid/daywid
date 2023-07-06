@@ -60,6 +60,5 @@
   <!--  <img src="https://github.com/daywid/daywid/blob/main/img/Clide-torgal.gif" width="500">  -->
 </div>
 
-##
   
  
