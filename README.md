@@ -6,7 +6,7 @@
 ## About me 
 
 
-<i> 🎓 I'm currently studying Spring Boot. <br> </i>
+<i> 🎓 I'm currently studying C# and Design patterns. <br> </i>
 
 <i> 💻  My favorite programming languages are Java and Python, but I'm always seeking to learn new languages. <br>  </i>
 
