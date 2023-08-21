@@ -56,7 +56,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
- <img src="https://github.com/daywid/daywid/blob/main/img/zelda and link📚.gif" width="720"> 
+<!-- <img src="https://github.com/daywid/daywid/blob/main/img/zelda and link📚.gif" width="720">  -->
   <!--  <img src="https://github.com/daywid/daywid/blob/main/img/Clide-torgal.gif" width="500">  -->
 </div>
 
