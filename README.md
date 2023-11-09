@@ -51,7 +51,7 @@
     
 ## 
 
- <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
+ <i> It’s dangerous to go alone, take this! ⭐️</i> <br> <br>
 <!-- <img src="https://github.com/daywid/daywid/blob/main/Fire-Pixel.gif" width="440"> -->
 
 
