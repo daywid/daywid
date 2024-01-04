@@ -8,7 +8,7 @@
 
 <i> 🎓 I'm currently studying Angular, WebAPI and AWS. <br> </i>
 
-<i> 💻  My favorite programming languages are Java and Python, but I'm always seeking to learn new languages. <br>  </i>
+<i> 💻  My favorite programming languages are Java and Python, my favorite frameworks are Spring and Angular. <br>  </i>
 
 <i> 📚 I'm always looking to learn new things and stay up to date with new technologies. <br>  </i>
 
