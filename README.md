@@ -6,7 +6,7 @@
 ## About me 
 
 
-<i> 🎓 I'm currently studying Angular, WebAPI and AWS. <br> </i>
+<i> 🎓 I'm currently studying Angular, SAP and AWS. <br> </i>
 
 <i> 💻  My favorite programming languages are Java and Python, my favorite frameworks are Spring and Angular. <br>  </i>
 
