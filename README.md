@@ -5,6 +5,7 @@
 
 ## About me 
 
+<i> 👨‍💻 Currently working as a Java Developer. <br> </i>
 
 <i> 🎓 I'm currently studying Angular, SAP and AWS. <br> </i>
 
