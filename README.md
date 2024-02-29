@@ -51,8 +51,8 @@
     
 ## 
 
- <i> It’s dangerous to go alone, take this! ⭐️</i> <br> <br>
-<!-- <img src="https://github.com/daywid/daywid/blob/main/Fire-Pixel.gif" width="440"> -->
+ <i> " It’s dangerous to go alone, take this! "⭐️</i> <br> <br>
+ <img src="https://github.com/daywid/daywid/blob/main/Fire-Pixel.gif" width="440"> 
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
