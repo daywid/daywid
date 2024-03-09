@@ -51,8 +51,11 @@
   
 ## 
 
+<div style="display: flex; justify-content: center; align-items: center;">
+ 
  <i> " Who knows what tomorrow holds "</i> <br> <br>
  
+ </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <!-- <img src="https://github.com/daywid/daywid/blob/main/img/zelda and link📚.gif" width="720">  -->
