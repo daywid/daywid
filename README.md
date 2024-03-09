@@ -27,7 +27,7 @@
  
 <h3> 📚 Github Stats: <br></h3>
   
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
   <a href="https://github.com/daywid/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daywid&layout=compact&theme=tokyonight" />
 </a>
