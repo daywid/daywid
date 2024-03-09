@@ -51,7 +51,7 @@
   
 ## 
 
-<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto; width: 50%;">
+<div align="center">
  
  <i> " Who knows what tomorrow holds " </i> <br> <br>
  
