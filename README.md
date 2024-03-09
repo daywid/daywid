@@ -48,17 +48,16 @@
    
 </div>
 
-    
+  
 ## 
 
- <i> " It’s dangerous to go alone, take this! "⭐️</i> <br> <br>
- <img src="https://github.com/daywid/daywid/blob/main/Fire-Pixel.gif" width="440"> 
-
+ <i> " Who knows what tomorrow holds "</i> <br> <br>
+ 
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <!-- <img src="https://github.com/daywid/daywid/blob/main/img/zelda and link📚.gif" width="720">  -->
   <!--  <img src="https://github.com/daywid/daywid/blob/main/img/Clide-torgal.gif" width="500"> -->
+  <img src= "https://github.com/daywid/daywid/img/persona-rainy-day.gif width="500">
 </div>
 
-  
- 
+
