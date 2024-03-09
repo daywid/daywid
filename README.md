@@ -5,7 +5,7 @@
 
 ## About me 
 
-<i> 👨‍💻 Currently working as a Java Developer on web e-commerce projects using technologies such as Sap Commerce Cloud (Hybris) and Spartacus. <br> </i>
+<i> 👨‍💻 Currently working as a Java Developer on web e-commerce projects using Sap Commerce Cloud (Hybris) and Spartacus technologies <br> </i>
 
 <i> 🎓 I'm currently studying Angular, SAP and AWS. <br> </i>
 
@@ -18,23 +18,23 @@
   
 <h3> 🌐 Social Media: <br></h3> 
 
-<div>  
-
- 
+  <div>  
    <a href="https://www.linkedin.com/in/daywid-mendes-387089249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:mdaywid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>  
  
 ##
  
 <h3> 📚 Github Stats: <br></h3>
   
-<div>
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/daywid/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daywid&layout=compact&theme=tokyonight" />
 </a>
 </div>
 
 
+<br>
 <br>
   
 <div align="center" style="display: inline_block">
@@ -53,7 +53,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
  
- <i> " Who knows what tomorrow holds "</i> <br> <br>
+ <i> " Who knows what tomorrow holds " </i> <br> <br>
  
  </div>
 
