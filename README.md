@@ -1,7 +1,7 @@
 <h3> Hello, I'm Daywid! 🐱‍👤 Welcome to my GitHub profile! 👋🏽 </h3>  
 <h4></h4>   
 
-<i> 🎓  Software Development Student - Java | C# | TypeScript | <br> <br> </i>
+<i> 🎓  Software Developer from Curitiba, Brazil!🇧🇷 - Java | C# | TypeScript | <br> <br> </i>
 
 ## About me 
 
